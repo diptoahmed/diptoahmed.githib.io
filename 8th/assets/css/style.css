@@ -1,0 +1,84 @@
+/* Base CSS */
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+a:focus { outline: 0 solid }
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700; color:#222;
+}
+.gray-bg{background-color:#fafafa;}
+
+.section-padding{padding:80px 0 ;}
+
+.section-title{margin-bottom: 50px;}
+
+.service-bg{height:225px;
+background-color: #ddd;
+background-position: center;
+background-size: cover;
+}
+.service-bg-2{height:225px;
+background-color: #ddd;
+background-position: center;
+background-size: cover;
+}
+
+.service-bg-3{height:225px;
+background-color: #ddd;
+background-position: center;
+background-size: cover;
+}
+
+.service-bg-4{height:225px;
+background-color: #ddd;
+background-position: center;
+background-size: cover;
+
+}
+
+
+.service-bg{background: url('../img/99.jpg');}
+
+.service-bg-4{background: url('../img/1.jpg');}
+
+.service-bg-2{background: url('../img/2.jpg');}
+.service-bg-3{background: url('../img/3.jpg');}
+
+.service-content h3{margin-top: 20px;}
+
+.service-more-btn{
+
+display:inline-block;
+ background-color: #4CAF50; /* Green */
+    border-radius: 24px;
+    color:white;
+
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top:8px;
+
+
+}
